@@ -10,7 +10,7 @@
     <!-- Managed container settings -->
     <container qualifier="jbossas-managed" default="true">
         <configuration>
-            <property name="jbossHome">target/jboss-as-7.1.1.Final</property>
+            <property name="jbossHome">/Users/Walker/Progs/jboss-as-7.1.1.Final</property>
             <property name="outputToConsole">true</property>
         </configuration>
     </container>
